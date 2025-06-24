@@ -17,7 +17,7 @@ export const categories = [
   },
   {
     id: 3,
-    img: "https://images.pexels.com/photos/1656684/pexels-photo-1656684.jpeg?_gl=1*2xb30r*_ga*MTA2ODE2ODEyNC4xNzUwNzQwNDc4*_ga_8JE65Q40S6*czE3NTA3NDA0NzckbzEkZzEkdDE3NTA3NDA2MzkkajgkbDAkaDA.",
+    img: "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?_gl=1*yhm5w*_ga*MjUxMzg2MTIuMTc1MDc0MDY3NQ..*_ga_8JE65Q40S6*czE3NTA3NDUwNjQkbzIkZzEkdDE3NTA3NDUwODkkajM1JGwwJGgw",
     title: "Man Fashion",
     desc: "Cool and many fashion for you. Design by popular fashion stylish, we have new model of jacket, grab now.",
     cat: "men",
